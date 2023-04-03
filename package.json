@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "prettier": "prettier --write ."
+    "prettier": "prettier --write .",
+    "prepare": "husky install"
   },
   "engines": {
     "node": ">=14.0.0",
@@ -25,6 +26,7 @@
     "@types/react-dom": "18.0.11",
     "eslint": "8.37.0",
     "eslint-config-next": "13.2.4",
+    "husky": "^8.0.3",
     "prettier": "^2.8.7",
     "typescript": "5.0.3"
   }
