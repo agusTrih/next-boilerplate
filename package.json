@@ -11,7 +11,7 @@
   "engines": {
     "node": ">=14.0.0",
     "yarn": ">=1.22.0",
-    "npm": "please use-yarn"
+    "npm": "please-use-yarn"
   },
   "dependencies": {
     "next": "13.2.4",
